@@ -57,6 +57,9 @@ Finalização com cobertura de ganache.
 O código foi desenvolvido em HTML e organizado no VS Code, com o objetivo de praticar a 
 estruturação de páginas e a apresentação de conteúdo de forma clara e visual.
 
+🔗Click aqui para acessar a receita
+http://127.0.0.1:5500/index.html
+
 
 <img width="300" height="300" alt="Captura de tela 2025-08-21 103943" src="https://github.com/user-attachments/assets/4b921dc6-50e4-4c3d-8381-d74a15a3f445" />
 
