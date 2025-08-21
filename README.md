@@ -58,6 +58,7 @@ O código foi desenvolvido em HTML e organizado no VS Code, com o objetivo de pr
 estruturação de páginas e a apresentação de conteúdo de forma clara e visual.
 
 🔗Click aqui para acessar a receita
+
 http://127.0.0.1:5500/index.html
 
 
