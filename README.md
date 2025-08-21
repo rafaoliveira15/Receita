@@ -58,5 +58,6 @@ O código foi desenvolvido em HTML e organizado no VS Code, com o objetivo de pr
 estruturação de páginas e a apresentação de conteúdo de forma clara e visual.
 
 
+<img width="300" height="300" alt="Captura de tela 2025-08-21 103943" src="https://github.com/user-attachments/assets/4b921dc6-50e4-4c3d-8381-d74a15a3f445" />
 
 <img width="300" height="300" alt="Captura de tela 2025-08-21 104014" src="https://github.com/user-attachments/assets/b38266fb-4a38-4e52-a9a3-22b1de9abca2" />
